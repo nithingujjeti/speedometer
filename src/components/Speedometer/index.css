@@ -1,0 +1,43 @@
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  height: 45%;
+  width: 50%;
+}
+
+.heading {
+  color: #fff;
+  font-family: roboto;
+  font-size: 46px;
+}
+.description {
+  color: #fff;
+  font-size: 25px;
+  font-family: roboto;
+}
+.limit-inst {
+  color: #94a3b8;
+}
+.btn-acc {
+  background-color: #0b69ff;
+  outline: none;
+  border-color: #0b69ff;
+  color: #fff;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-right: 15px;
+}
+.btn-brake {
+  background-color: transparent;
+  color: #94a3b8;
+  border: 2px solid #94a3b8;
+  border-radius: 6px;
+  font-size: 16px;
+}
